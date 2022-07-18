@@ -1,0 +1,12 @@
+C:\Users\27787\source\repos\writingToDatabase\library\bin\Debug\net6.0\library.deps.json
+C:\Users\27787\source\repos\writingToDatabase\library\bin\Debug\net6.0\library.dll
+C:\Users\27787\source\repos\writingToDatabase\library\bin\Debug\net6.0\library.pdb
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.dll
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\library.pdb
+C:\Users\27787\source\repos\writingToDatabase\library\obj\Debug\net6.0\ref\library.dll
